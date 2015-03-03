@@ -1,5 +1,7 @@
 331 is a 3x3 pixel font with 1-bit color.
 
+![Full character set](preview.png)
+
 The characters are arranged in ASCII-order on a 19x15 grid:
 
    !"#$%&'()*+,-./012
